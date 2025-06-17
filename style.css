@@ -71,6 +71,13 @@ nav .nav-links a:hover {
 .hero a.button:hover {
   background: #333;
 }
+.hero-image {
+  max-width: 100%;
+  width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* optional: center the image */
+}
 
 /* Gallery */
 .gallery {
