@@ -72,9 +72,9 @@ nav .nav-links a:hover {
   background: #333;
 }
 .hero-image {
-  max-width: 100%;
-  width: 600px;
-  height: auto;
+ object-fit: cover;
+  width: auto;
+  height: 300px;
   display: block;
   margin: 0 auto; /* optional: center the image */
 }
